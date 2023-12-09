@@ -51,6 +51,8 @@ Paragraph default:1.6
 html {
   font-size: 62.5%;
   overflow-x: hidden;
+  /* doesnt work on safari */
+  /* scroll-behavior: smooth; */
 }
 
 body {
