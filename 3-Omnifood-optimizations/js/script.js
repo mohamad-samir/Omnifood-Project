@@ -13,7 +13,7 @@ btnNavEl.addEventListener("click", function () {
 
 ///////////////////////////////////////////////////////////
 ///////////////////////////////////////////////////////////
-// Smooth scrolling animation
+// Smooth scrolling animation //
 
 const allLinks = document.querySelectorAll("a:link");
 
